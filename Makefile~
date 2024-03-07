@@ -1,0 +1,7 @@
+all:
+	cc reader.c -o reader
+
+
+install:	all
+	mv reader zauropedia
+	mv . /usr/local/bin	

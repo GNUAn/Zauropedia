@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <string.h>
 /* Reader of articles in Zauropedia */
-typedef char* str_t;
+typedef char* str_t; // STR_T :D
 int 
 main (int argc, char **argv)
 {
