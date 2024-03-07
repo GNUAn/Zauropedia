@@ -1,3 +1,8 @@
+List of files:
+Zaurux-zauropedia1.tar.gz
+main.txt(this file)
+LICENSE.md
+
 Zaurux(earlier Andesaurux)
 {
   Zaurux is an operating system developed by GNUAn in 2024 year.
@@ -40,6 +45,7 @@ Zaurux(earlier Andesaurux)
   }
   END
 }
+
     Copyright (C)  2024  GNUAn.
     Permission is granted to copy, distribute and/or modify this document
     under the terms of the GNU Free Documentation License, Version 1.3
